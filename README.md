@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, JS & C#.
 - 📫 You can contact me on:
 - Twitter, @nichxlas98
-- Telegram, @niichxlas98
+- Telegram, @nichxlas98
 - Discord, nicholas#8226
 
 <!---
