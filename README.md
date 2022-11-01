@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas!
 - 👀 I’m interested in Web Development, Game Modding & Game Development.
-- 🌱 I’m currently learning Java & C#/C++.
+- 🌱 I’m currently learning Java & C#/C++
 - 📫 You can contact me on:
 - Twitter, @nichxlas98
 - Telegram, @nichxlas98
